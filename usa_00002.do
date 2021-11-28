@@ -285,5 +285,3 @@ label define vet90x01_lbl 0 `"N/A"'
 label define vet90x01_lbl 1 `"Did not serve this period"', add
 label define vet90x01_lbl 2 `"Served this period"', add
 label values vet90x01 vet90x01_lbl
-
-
