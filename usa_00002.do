@@ -23,7 +23,7 @@ quietly infix              ///
   byte    vetstatd  96-97  ///
   byte    vet01ltr  98-98  ///
   byte    vet90x01  99-99  ///
-  using `"/Users/joycefu/downloads/ECON 96 Data/usa_00002.dat"' // set working directory
+  using `"/Users/joycefu/downloads/ECON 96 Data/usa_00002.dat"'
 
 replace hhwt     = hhwt     / 100
 replace perwt    = perwt    / 100
